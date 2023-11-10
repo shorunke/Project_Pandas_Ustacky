@@ -1,6 +1,11 @@
-# Project Title:
-Sales Analysis of three supermarkets of XYZ Company.
-# Project Step:
+# Sales Analysis:
+ 
+## Project Overview:
+This data Analysis project aim to provide insight into the sales performances for
+the three branches of XYZ company supermarket for the period of three months.
+### Data source:
+The primary data sources used are Abuja_Branch.csv,Lagos_Branch.csv and Port_Harcourt_Branch.csv.
+## Project Step:
 The sales records were for three months ranges for January 2019 to March 2019.
 The sales records of the company for its three branches were access, collated, 
 transformed, analyze and visualized using Pandas python method.
